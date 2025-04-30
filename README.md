@@ -1,6 +1,6 @@
 # Commands
 
-## To build project for the first time:
+## To build project for the first time (after installing Docker):
 
 ```
 docker network create rabbitmq-net
