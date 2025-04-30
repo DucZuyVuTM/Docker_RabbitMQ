@@ -21,3 +21,8 @@ docker run --rm -it --network rabbitmq-net rabbitmq-python python sender.py
 ```
 
 3. Enjoy!
+
+## To save changes in Docker image:
+```
+docker build -t rabbitmq-python .
+```
